@@ -29,7 +29,7 @@
 
 > This repository comprises Ruby code that replicates three key Enumerable methods: #all?, #any?, and #filter. It includes a MyList class with an @list instance variable and a custom #each method that utilizes the MyEnumerable module. The project structure emphasizes modularity, with separate .rb files for classes and modules. The code has been rigorously tested and successfully mimics the expected behavior of the Enumerable methods.
 
-**[Custom_Enumerable_and_MyLis]** is a Morse Code Decoder.
+**[Custom_Enumerable_and_MyLis]** presents a custom Ruby implementation of the Enumerable module, offering custom all?, any?, and filter methods within a modular and thoroughly tested codebase..
 
 ## 🛠 Built With <a name="built-with"></a>
 - Ruby
