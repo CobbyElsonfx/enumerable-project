@@ -25,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Custom_Enumerable_and_MyLis] <a name="about-project"></a>
+# 📖 [Custom_Enumerable_and_MyList] <a name="about-project"></a>
 
 > This repository comprises Ruby code that replicates three key Enumerable methods: #all?, #any?, and #filter. It includes a MyList class with an @list instance variable and a custom #each method that utilizes the MyEnumerable module. The project structure emphasizes modularity, with separate .rb files for classes and modules. The code has been rigorously tested and successfully mimics the expected behavior of the Enumerable methods.
 
