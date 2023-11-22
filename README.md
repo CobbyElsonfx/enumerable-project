@@ -133,8 +133,6 @@ Run rubocop on your VS Code terminal.
 - Twitter: [@rdzaman](https://twitter.com/rdzaman187468)
 - LinkedIn: [@md-rafiduzzaman-nahin](https://www.linkedin.com/in/md-rafiduzzaman-nahin-7431ab1b4/)
 
-## 👥 Authors <a name="authors"></a>
-
 👤**Jose Luis Berbesí Lopera**
 
 - GitHub: [@githubhandle](https://github.com/jlberbesi)
